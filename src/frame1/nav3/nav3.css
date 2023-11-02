@@ -1,0 +1,106 @@
+.nav3-head{
+    font-family: Sora;
+font-size: 40px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+margin-bottom: 20px;
+
+}
+
+.nav3-bx{
+    width: 500px;
+    height: 550px;
+    box-shadow: 5px 5px 10px black;
+     
+}
+.nav3-img{
+    width: 490px;
+    height: 250px;
+    margin-top: 5px;
+    margin-left:  5px;
+    border-radius: 20px
+     
+}
+
+.nav3-cm{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+     
+}
+
+.nav3-pa{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+     
+}
+
+.nav3-btn{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    gap: 10px;
+    background-color:  #0B6BA8;
+    color: white;
+    font-size: 20px
+    ;
+    border: none;
+    
+     
+
+
+}
+.nav3-btn:hover{
+    cursor: pointer;
+    background:#4581a7 ;
+}
+.nav3-map{
+    display: grid;
+    grid-template-columns: 500px 500px;
+    gap: 70px;
+}
+
+.test{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.test-cen{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    
+}
+.test-arrw{
+    
+    margin-top: 110px;
+}
+
+.tes{
+    font-family: Sora;
+font-size: 40px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+margin: 100px;
+
+}

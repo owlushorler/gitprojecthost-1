@@ -1,0 +1,87 @@
+.create{
+    display:  flex;
+    flex-direction: row;
+    
+}
+
+.create-1{
+    display: flex;
+    flex-direction: column;
+    gap:20px
+}
+
+.create-pa{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 30px;
+
+}
+
+.create-in{
+    width: 500px;
+height: 70px;
+margin-left: 30px;
+
+padding: 0px, 30px, 0px, 30px;
+border-radius: 10px;
+font-size: 15px;
+gap: 10px
+
+}
+
+.create-lg{
+    color:#0B6BA8;
+    margin-left: 40px;
+}
+
+.create-lg:hover{
+    cursor: pointer;
+    background-color: #6c99b6;
+}
+.create-btn{
+    width: 500px;
+height: 70px;
+
+border-radius: 10px;
+gap: 10px;
+background: #0B6BA8;
+margin-left: 30px;
+border: none;
+color: white;
+font-size: 20px;
+}
+.create-btn:hover{
+    cursor: pointer;
+    background-color: #6c99b6;
+}
+
+.create-btn1{
+    width: 500px;
+height: 70px;
+
+border-radius: 10px;
+gap: 10px;
+
+margin-left: 30px;
+box-shadow: 2px 2px 2px black;
+color: black;
+font-size: 20px;
+}
+.create-btn1:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.create-h{
+    margin-top: 180px;
+    font-family: Sora;
+font-size: 36px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 30px;
+}

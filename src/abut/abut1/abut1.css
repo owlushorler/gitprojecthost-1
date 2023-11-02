@@ -1,0 +1,82 @@
+.abut-2{
+    display: flex;
+    flex-direction: row;
+
+    height: 684px;
+    margin-top: 50px;
+
+}
+.abut-pa{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+margin: 50px
+
+}
+.abut-h{
+    margin: 80px;
+    font-family: Sora;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+     
+}
+
+.abut-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.abut-4{
+    font-family: Sora;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.abut-55{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    width: 700px;
+height: 697px;
+background: #F0ECF8;
+margin: 40px;
+padding-top: 100px;
+
+}
+.abut-10{
+    display: flex;
+    flex-direction: column;
+}
+
+.abut-111{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.abut-70{
+    font-size: 24px;
+    
+}
+
+.abut-btn{
+    width: 61px;
+    height: 29px;
+background-color: blue;
+border: none;
+margin-top: 100px;
+color: white;
+margin-left: 500px;
+      
+}
