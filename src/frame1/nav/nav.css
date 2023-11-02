@@ -54,7 +54,8 @@
     color: black;
     background: #50C9F9 ;
 }
-@media screen and (max-width: 769px){
+
+/*@media screen and (max-width: 769px){
     .nav{
     
         width: 90vw;
@@ -146,4 +147,4 @@
         width: 20vw;
     }
     
-}
+}*/

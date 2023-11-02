@@ -9,7 +9,7 @@ function Abut1 (){
     return(
         <div  >
             <div>
-                <img style={{width:"97vw"}} src={lg} />
+                <img style={{width:"1280px"}} src={lg} />
             </div>
 
             <div className="abut-2" >
