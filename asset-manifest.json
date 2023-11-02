@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gitprojecthost-1/static/css/main.0377f08c.css",
-    "main.js": "/gitprojecthost-1/static/js/main.fafe45ec.js",
+    "main.css": "/gitprojecthost-1/static/css/main.168e5a32.css",
+    "main.js": "/gitprojecthost-1/static/js/main.fe72f2e5.js",
     "static/media/Frame 8.png": "/gitprojecthost-1/static/media/Frame 8.5da3087469bfde319456.png",
     "static/media/Rectangle 28.png": "/gitprojecthost-1/static/media/Rectangle 28.be46e5a17ee0bce117ba.png",
     "static/media/recc.png": "/gitprojecthost-1/static/media/recc.1c6feefe77c0ea41faaf.png",
@@ -22,11 +22,11 @@
     "static/media/lg.png": "/gitprojecthost-1/static/media/lg.d4e74ec465b89cddbb79.png",
     "static/media/lw.png": "/gitprojecthost-1/static/media/lw.d4e74ec465b89cddbb79.png",
     "index.html": "/gitprojecthost-1/index.html",
-    "main.0377f08c.css.map": "/gitprojecthost-1/static/css/main.0377f08c.css.map",
-    "main.fafe45ec.js.map": "/gitprojecthost-1/static/js/main.fafe45ec.js.map"
+    "main.168e5a32.css.map": "/gitprojecthost-1/static/css/main.168e5a32.css.map",
+    "main.fe72f2e5.js.map": "/gitprojecthost-1/static/js/main.fe72f2e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0377f08c.css",
-    "static/js/main.fafe45ec.js"
+    "static/css/main.168e5a32.css",
+    "static/js/main.fe72f2e5.js"
   ]
 }
