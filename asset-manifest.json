@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gitprojecthost-1/static/css/main.0377f08c.css",
+    "main.js": "/gitprojecthost-1/static/js/main.fafe45ec.js",
+    "static/media/Frame 8.png": "/gitprojecthost-1/static/media/Frame 8.5da3087469bfde319456.png",
+    "static/media/Rectangle 28.png": "/gitprojecthost-1/static/media/Rectangle 28.be46e5a17ee0bce117ba.png",
+    "static/media/recc.png": "/gitprojecthost-1/static/media/recc.1c6feefe77c0ea41faaf.png",
+    "static/media/Femi.png": "/gitprojecthost-1/static/media/Femi.b2c19b7091b5831e44a8.png",
+    "static/media/Rectangle 13.png": "/gitprojecthost-1/static/media/Rectangle 13.4ef0643426b4f6ff12b5.png",
+    "static/media/man.png": "/gitprojecthost-1/static/media/man.dc839df8370c70236b56.png",
+    "static/media/man3.png": "/gitprojecthost-1/static/media/man3.bff4dbc60e2ae6eb6436.png",
+    "static/media/man1.png": "/gitprojecthost-1/static/media/man1.28b882bca248f0bec971.png",
+    "static/media/man4.png": "/gitprojecthost-1/static/media/man4.2ce2d78af7c312c575d8.png",
+    "static/media/ppp.png": "/gitprojecthost-1/static/media/ppp.0cd752cd7f7e2a5282f7.png",
+    "static/media/lg2.png": "/gitprojecthost-1/static/media/lg2.d74436d11411fe7ce66c.png",
+    "static/media/mig.png": "/gitprojecthost-1/static/media/mig.3c698c0e7edc5c019b88.png",
+    "static/media/edit.png": "/gitprojecthost-1/static/media/edit.a61dcbd8a88451e03536.png",
+    "static/media/www.png": "/gitprojecthost-1/static/media/www.0bb14b4cf823d7abf81a.png",
+    "static/media/ww.png": "/gitprojecthost-1/static/media/ww.a6bba00f9e98b04b909b.png",
+    "static/media/Frame 9 (1).png": "/gitprojecthost-1/static/media/Frame 9 (1).d783a2cd35d0ed4fc008.png",
+    "static/media/Frame 11 (1).png": "/gitprojecthost-1/static/media/Frame 11 (1).a733d74027fe0542bcd6.png",
+    "static/media/lg.png": "/gitprojecthost-1/static/media/lg.d4e74ec465b89cddbb79.png",
+    "static/media/lw.png": "/gitprojecthost-1/static/media/lw.d4e74ec465b89cddbb79.png",
+    "index.html": "/gitprojecthost-1/index.html",
+    "main.0377f08c.css.map": "/gitprojecthost-1/static/css/main.0377f08c.css.map",
+    "main.fafe45ec.js.map": "/gitprojecthost-1/static/js/main.fafe45ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0377f08c.css",
+    "static/js/main.fafe45ec.js"
+  ]
+}
